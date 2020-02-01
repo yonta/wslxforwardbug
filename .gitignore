@@ -1,0 +1,7 @@
+*.o
+moc_*
+ui_mainwindow.h
+.qmake.stash
+Makefile
+xforwardbug
+
